@@ -28,6 +28,3 @@
 <img src="src/images/scheme-1.png">
 <img src="src/images/scheme-2.png">
 <img src="src/images/scheme-3.png">
-
-
-
